@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\layout\\sf__custom_server_url.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__custom_server_url.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\layout\\sf__server_picker.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__server_picker.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\layout\\sf__fingerprint_dialog.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__fingerprint_dialog.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\layout\\sf__login.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__login.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\layout\\sf__inspector.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\res\\layout\\sf__inspector.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\layout\\sf__manage_space.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__manage_space.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\layout\\sf__passcode.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__passcode.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\layout\\sf__inspector_result_cell.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\res\\layout\\sf__inspector_result_cell.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\layout\\sf__account_switcher.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__account_switcher.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\layout\\sf__server_picker_list.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\layout\\sf__server_picker_list.xml"
+    }
+]

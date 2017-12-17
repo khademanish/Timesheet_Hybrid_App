@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sf__toolbar_background.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\sf__toolbar_background.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sf__progress_spinner.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\sf__progress_spinner.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sf__header_bg.png",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\sf__header_bg.png"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartSync\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    }
+]

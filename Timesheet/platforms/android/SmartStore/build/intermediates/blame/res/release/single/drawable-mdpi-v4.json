@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\sf__edit_icon.png",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\sf__edit_icon.png"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\sf__ic_refresh_sync_anim0.png",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\sf__ic_refresh_sync_anim0.png"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\sf__icon.png",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\sf__icon.png"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\sf__highlight_glare.png",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\sf__highlight_glare.png"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    }
+]

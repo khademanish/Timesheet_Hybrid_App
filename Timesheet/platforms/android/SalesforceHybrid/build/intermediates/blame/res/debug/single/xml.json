@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceHybrid\\build\\intermediates\\res\\merged\\debug\\xml\\servers.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\servers.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceHybrid\\build\\intermediates\\res\\merged\\debug\\xml\\app_restrictions.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\app_restrictions.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceHybrid\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceHybrid\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceHybrid\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "F:\\Cordova\\Timesheet\\platforms\\android\\SalesforceSDK\\build\\intermediates\\bundles\\default\\res\\xml\\authenticator.xml"
+    }
+]

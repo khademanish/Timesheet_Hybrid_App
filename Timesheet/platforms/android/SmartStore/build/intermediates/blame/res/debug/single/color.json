@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Cordova\\Timesheet\\platforms\\android\\SmartStore\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Manish\\.android\\build-cache\\0fca091f80ca6cdb13248142ac8ffa0c04cb02e6\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]

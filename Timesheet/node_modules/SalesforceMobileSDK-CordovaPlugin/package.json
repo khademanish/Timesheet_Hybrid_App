@@ -1,0 +1,61 @@
+{
+  "_from": "git+https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git",
+  "_id": "SalesforceMobileSDK-CordovaPlugin@5.3.0",
+  "_inBundle": false,
+  "_integrity": "sha1-IQUgYzW0xAJc3zkgZDT/9hiRG9s=",
+  "_location": "/SalesforceMobileSDK-CordovaPlugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git",
+    "rawSpec": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git",
+    "saveSpec": "git+https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git",
+    "fetchSpec": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git#5601b88446aeb5873b133c6abf9b2ac9ab786439",
+  "_spec": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git",
+  "_where": "F:\\Cordova\\Timesheet",
+  "author": {
+    "name": "Bharath Hariharan",
+    "email": "bhariharan@salesforce.com"
+  },
+  "bugs": {
+    "url": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Wolfgang Mathurin",
+      "email": "wmathurin@salesforce.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "Salesforce Mobile SDK Cordova Plugin Repository",
+  "homepage": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin",
+  "keywords": [
+    "mobilesdk",
+    "android",
+    "ios",
+    "cordova",
+    "salesforce",
+    "mobile",
+    "sdk"
+  ],
+  "licenses": [
+    {
+      "type": "Salesforce.com Mobile SDK License",
+      "url": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin/blob/master/LICENSE.md"
+    }
+  ],
+  "name": "SalesforceMobileSDK-CordovaPlugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git"
+  },
+  "version": "5.3.0"
+}
